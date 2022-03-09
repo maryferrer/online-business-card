@@ -4,7 +4,7 @@ function About() {
     return (
         <div>
             <h3>About</h3>
-            <p>Quick learner and self-taught developer passionate about contributing to the tech and biotech industries with responsive, accesible UIs and high-quality code. I have 4+ years of experience in sales and customer-focused roles in Biotech and am able to craft solutions quickly and efficiently under pressure.</p>
+            <p>Quick learner and self-taught Front-end Developer passionate about creating responsive, accesible user interfaces with high-quality code. I have 4+ years of experience in sales roles in Biotech and am able to craft solutions quickly and efficiently under pressure.</p>
         </div>
     )
 };
