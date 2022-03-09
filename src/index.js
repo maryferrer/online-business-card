@@ -4,6 +4,7 @@ import './index.css';
 import Info from './Info';
 import About from './About';
 import Interests from './Interests';
+import Skills from './Skills';
 import Footer from './Footer';
 
 ReactDOM.render(
@@ -13,6 +14,7 @@ ReactDOM.render(
       <article className="container2">
         <About />
         <Interests />
+        <Skills />
       </article>
       <Footer />
     </section>
