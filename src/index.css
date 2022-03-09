@@ -105,6 +105,25 @@ p {
 }
 /* About and Interests components */
 
+/* Skills component */
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-flow: row nowrap;
+  gap: 1rem;
+  justify-content: center;
+  padding: 0;
+  margin: 0.5rem 0 0.5rem 0;
+}
+li {
+  border-radius: 1rem;
+  color: white;
+  background-color: rgb(190, 134, 247);
+  padding: .5rem;
+  font-weight: 500;
+}
+/* Skills component */
+
 /* Footer */
 footer {
   width: 330px;
